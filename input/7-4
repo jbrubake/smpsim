@@ -1,0 +1,7 @@
+mul r1 r2 r3
+mul r4 r1 r2
+mul r5 r4 r7
+mul r7 r5 r8
+mul r9 r7 r11
+mul r10 r9 r13
+mul r14 r10 r16
